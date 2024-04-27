@@ -1,4 +1,4 @@
-# TurboQ Minimal Starter
+# Image Resizing Tempalte
 
 Look at the [TurboQ documentation](https://docs.turboq.dev/) to learn more.
 
